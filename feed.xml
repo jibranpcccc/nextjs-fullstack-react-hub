@@ -4,10 +4,17 @@
     <title>Next.js &amp; Full-Stack React Hub</title>
     <link>https://nextjs-fullstack-react-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 06:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:17:52 GMT</lastBuildDate>
     <atom:link href="https://nextjs-fullstack-react-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                        <item>
+                            <item>
+      <title>📅 Today's Fresh Pick: Next.js Developers Discord (Discord)</title>
+      <link>https://discord.gg/nextjs</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/nextjs-fullstack-react-hub/#nextjs-fullstack-react-hub-discord-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:17:52 GMT</pubDate>
+      <description>Newly verified community added to Next.js &amp; Full-Stack React Hub: Official community Discord for Vercel Next.js developers, Server Components, and App Router architectures.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Devcord Web Developers (Discord)</title>
       <link>https://discord.gg/devcord</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/nextjs-fullstack-react-hub/#nextjs-fullstack-react-hub-discord-20260915-1-2026-09-15</guid>
